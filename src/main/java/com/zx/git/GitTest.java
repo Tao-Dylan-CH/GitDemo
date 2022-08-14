@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("Hello Git3!");
         System.out.println("hot-fix edit");
         System.out.println("master edit");
+        System.out.println("hot-fix edit2");
     }
 }
